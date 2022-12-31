@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data Science, Machine Learning projects.
 - 🌱 I’m currently learning MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks.
 
-- Data Scientist at <CareerEra>.
+
 - B.Tech  and M.Tech Civil Engineering from WBUT 
 
 
