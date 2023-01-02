@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks.
 
 
-- B.Tech  and M.Tech Civil Engineering from WBUT 
+- B.Tech  and M.Tech  from WBUT 
 
 
 ## Things I am passionate about
